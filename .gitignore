@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+Config/__pycache__
+Routers/__pycache__
+Models/__pycache__
+Schemas/__pycache__
